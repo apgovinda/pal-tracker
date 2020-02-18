@@ -9,4 +9,3 @@ CREATE TABLE time_entries (
 )
   ENGINE = innodb
   DEFAULT CHARSET = UTF8MB4;
-  
